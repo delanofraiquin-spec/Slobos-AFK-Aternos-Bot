@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "technopluh",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "crystalattack.minefort.com",
